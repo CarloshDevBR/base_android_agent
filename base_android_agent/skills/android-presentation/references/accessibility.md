@@ -1,4 +1,4 @@
-# Acessibilidade no Compose
+# Acessibilidade
 
 - Forneça descrição significativa para controles sem rótulo visual; use descrição nula em imagens
   puramente decorativas.

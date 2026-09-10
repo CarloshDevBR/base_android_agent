@@ -1,9 +1,4 @@
----
-name: android-testing
-description: Cria ou modifica testes unitários, de integração ou de UI para código Android. Use quando o pedido exigir testes ou quando uma mudança de comportamento precisar de proteção proporcional ao risco.
----
-
-# Android Testing
+# Testes Android
 
 Teste comportamento observável, não detalhes internos. Escolha o nível mais barato que reproduza o
 risco: unitário, integração ou UI.
